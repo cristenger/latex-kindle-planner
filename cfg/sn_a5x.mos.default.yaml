@@ -21,3 +21,13 @@ layout:
     quarterlyspring: \myDummyQ
     monthlyspring: \vskip.5mm
     dailyspring: \textcolor{white}{..}
+pages:
+    # ... otras páginas existentes ...
+    
+    - name: daily_drawing
+      renderblocks:
+        - funcname: daily_drawing
+          tpls:
+            - mos_daily_drawing.tpl
+
+ 
