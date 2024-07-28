@@ -8,10 +8,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/kudrykv/latex-yearly-planner/app/components/page"
-	"github.com/kudrykv/latex-yearly-planner/app/compose"
-	"github.com/kudrykv/latex-yearly-planner/app/config"
-	"github.com/kudrykv/latex-yearly-planner/app/tpls"
+	"github.com/cristenger/latex-kindle-planner/app/components/page"
+	"github.com/cristenger/latex-kindle-planner/app/compose"
+	"github.com/cristenger/latex-kindle-planner/app/config"
+	"github.com/cristenger/latex-kindle-planner/app/tpls"
 	"github.com/urfave/cli/v2"
 )
 
