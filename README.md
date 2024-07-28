@@ -1,23 +1,7 @@
-# latex-yearly-planner
+# latex-kindle-planner
 
 PDF planner designed for e-ink devices.
 
-See [discussions](https://github.com/kudrykv/latex-yearly-planner/discussions) for available planners and their variations.
-
-### Documentation work in progress
-I am planning to write more documentation on how to use it and build it on your own.
-Spoiler alert: it won't be easy.
-Anyhow, more info on this will come.
-
-## Quick Start Guide
-Here are the steps to quickly get the project up and running.
-
-* Note: if you are here just for the planners you can find pre-generated
- planners in [2022-2032 Planners Discussions](https://github.com/kudrykv/latex-yearly-planner/discussions/57).
-
-For the tinkerers, read on.
-
-The following was tested with [POP_OS 22.04.1 LTS](https://pop.system76.com/) under [Virtualbox](https://www.virtualbox.org/) version 6.1
 
 ### Install Dependencies
 1. [Go Language](https://go.dev/dl/)
